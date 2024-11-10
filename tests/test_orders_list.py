@@ -1,3 +1,4 @@
+import pytest
 import allure
 import requests
 from data import Urls
